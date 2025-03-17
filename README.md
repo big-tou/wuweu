@@ -2,7 +2,8 @@
 > <p align="center">无需亲自前往实体店？</p>
 > <p align="center">现在，只需通过微信，您即可轻松完成所有操作</p>
 > <p align="center">享受便捷、安全且有保障的网上购买彩票体验</p> 
-
+<br>
+<br>
 
 
 
@@ -13,7 +14,7 @@
 <p align="center">我们为您提供全天候服务</p> 
 <p align="center">无论何时何地</p> 
 <p align="center">您都能轻松购买彩票，享受便捷与安心</p> 
-
+<br>
 <p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="300"></p> 
 
 <p align="center">无论是双色球、大乐透、3D、快乐8</p> 
@@ -24,7 +25,7 @@
 
 <i class="fas fa-arrow-right"></i>
 
-
+<br>
 
 
 <h3 style="text-align: center;">线上购买彩票入口</h3>
@@ -50,7 +51,7 @@
     4. 兑奖：直接通过微信转账到您的账户，方便快捷
 </div>
 
-
+<br><br>
 
 
 
