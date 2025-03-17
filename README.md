@@ -47,7 +47,7 @@
 
 <p align="center">⬇️ </p> 
 
-<div style="background-color: red; padding: 10px; text-align: center; font-weight: bold;">
+<div style="background-color: red;color:#ffffff; padding: 10px; text-align: center; font-weight: bold;">
     4. 兑奖：直接通过微信转账到您的账户，方便快捷
 </div>
 
