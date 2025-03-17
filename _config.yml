@@ -1,7 +1,7 @@
 markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
-footer: false
-is_project_page: false
+show_footer: false
+show_github_link: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 线上怎么买彩票
