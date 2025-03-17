@@ -5,7 +5,7 @@
 <br>
 <br>
 
-
+<link rel="stylesheet" href="style.css">
 
 <h2 style="text-align: center;">为什么选择我们？</h2>
 <p align="center">作为一家获得国家福彩中心和体彩中心官方认证的正规实体店</p> 
