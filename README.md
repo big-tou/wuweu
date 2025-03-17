@@ -2,8 +2,8 @@
 > <p align="center">无需亲自前往实体店？</p>
 > <p align="center">现在，只需通过微信，您即可轻松完成所有操作</p>
 > <p align="center">享受便捷、安全且有保障的网上购买彩票体验</p> 
->
-> [实习篇](./intern.html)
+
+
 
 
 <h2 style="text-align: center;">为什么选择我们？</h2>
@@ -14,7 +14,7 @@
 <p align="center">无论何时何地</p> 
 <p align="center">您都能轻松购买彩票，享受便捷与安心</p> 
 
-<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="400"></p> 
+<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="300"></p> 
 
 <p align="center">无论是双色球、大乐透、3D、快乐8</p> 
 <p align="center">还是竞彩足球、排列3、排列5、刮刮乐等热门彩种</p> 
@@ -28,28 +28,31 @@
 
 
 <h3 style="text-align: center;">线上购买彩票入口</h3>
-<div style="background-color: red; padding: 10px; text-align: center; font-weight: bold;">
+<div style="background-color: red; padding: 10px;color:#ffffff; text-align: center; font-weight: bold;">
     1. 扫描二维码，添加店为微信好友
-   <p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="150"></p> 
 </div>
+<p align="center">⬇️ </p> 
 
-⬇️ 
 
-<div style="background-color: #d88321; padding: 10px; text-align: center; font-weight: bold;">
+<div style="background-color: #d88321;color:#ffffff; padding: 10px; text-align: center; font-weight: bold;">
     2. 选择彩种和号码挑选心仪的号码。也可以参考我们提供的号码推荐
 </div>
 
-⬇️ 
+<p align="center">⬇️ </p> 
 
-<div style="background-color: #d39b2a; padding: 10px; text-align: center; font-weight: bold;">
+<div style="background-color: #d39b2a;color:#ffffff; padding: 10px; text-align: center; font-weight: bold;">
     3. 支付并出票：完成支付后，我们会为您立即出票，（会拍照发您作为证据留存，并妥善保管您的彩票长达30天，您也可以选择将彩票邮寄）
 </div>
 
-⬇️ 
+<p align="center">⬇️ </p> 
 
 <div style="background-color: red; padding: 10px; text-align: center; font-weight: bold;">
     4. 兑奖：直接通过微信转账到您的账户，方便快捷
 </div>
+
+
+
+
 
 <p align="center">同时，我要悄悄告诉您一个行业小秘密</p> 
 
@@ -62,7 +65,7 @@
 <p align="center">立即扫描下方微信二维码，开启您的微信投注之旅吧！</p> 
 <p align="center">体验前所未有的购彩乐趣，预祝您中大奖！</p> 
 
-<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="400"></p> 
+<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="300"></p> 
 
 
 
