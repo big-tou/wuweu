@@ -15,7 +15,7 @@
 <p align="center">无论何时何地</p> 
 <p align="center">您都能轻松购买彩票，享受便捷与安心</p> 
 <br>
-<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="300"></p> 
+<p align="center"><img src="fetch_url.jpg"  width="300"></p> 
 
 <p align="center">无论是双色球、大乐透、3D、快乐8</p> 
 <p align="center">还是竞彩足球、排列3、排列5、刮刮乐等热门彩种</p> 
@@ -66,7 +66,7 @@
 <p align="center">立即扫描下方微信二维码，开启您的微信投注之旅吧！</p> 
 <p align="center">体验前所未有的购彩乐趣，预祝您中大奖！</p> 
 
-<p align="center"><img src="71f9f6f9c733f873b2771dd71ade44f.png"  width="300"></p> 
+<p align="center"><img src="fetch_url.jpg"  width="300"></p> 
 
 
 
