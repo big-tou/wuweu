@@ -28,13 +28,27 @@
 
 
 <h3 style="text-align: center;">线上购买彩票入口</h3>
-<p style="background-color: yellow;padding:20px 40px">1.扫描二维码，添加店为微信好友</p> 
+<div style="background-color: yellow; padding: 10px; text-align: center; font-weight: bold;">
+    1. 扫描二维码，添加店为微信好友
+</div>
+
 :arrow_down:
-<p style="background-color: yellow;padding:20px 40px">2、选择彩种和号码挑选心仪的号码。也可以参考我们提供的号码推荐</p> 
+
+<div style="background-color: yellow; padding: 10px; text-align: center; font-weight: bold;">
+    2. 选择彩种和号码挑选心仪的号码。也可以参考我们提供的号码推荐
+</div>
+
 :arrow_down:
-<p style="background-color: yellow;padding:20px 40px">3.支付并出票：完成支付后，我们会为您立即出票，（会拍照发您作为证据留存，并妥善保管您的彩票长达30天，您也可以选择将彩票邮寄）</p> 
+
+<div style="background-color: yellow; padding: 10px; text-align: center; font-weight: bold;">
+    3. 支付并出票：完成支付后，我们会为您立即出票，（会拍照发您作为证据留存，并妥善保管您的彩票长达30天，您也可以选择将彩票邮寄）
+</div>
+
 :arrow_down:
-<p style="background-color: yellow;padding:20px 40px">4.兑奖：直接通过微信转账到您的账户，方便快捷</p> 
+
+<div style="background-color: yellow; padding: 10px; text-align: center; font-weight: bold;">
+    4. 兑奖：直接通过微信转账到您的账户，方便快捷
+</div>
 
 <p align="center">同时，我要悄悄告诉您一个行业小秘密</p> 
 
