@@ -13,7 +13,7 @@
 <p align="center">确保每一位客户都能享受到优质的购彩体验</p> 
 <p align="center">我们为您提供全天候服务</p> 
 <p align="center">无论何时何地</p> 
-<p align="center">您都能轻松购买彩票，享受便捷与安心</p> 
+<p align="center">您都能轻松在网上购买彩票，享受便捷与安心</p> 
 <br>
 <p align="center"><img src="fetch_url.jpg"  width="300"></p> 
 
