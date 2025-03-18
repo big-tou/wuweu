@@ -1,7 +1,7 @@
-> <p align="center">想在家轻松购买彩票</p>
+> <p align="center">想在家就能轻松购买彩票</p>
 > <p align="center">无需亲自前往实体店？</p>
-> <p align="center">现在，只需通过微信，您即可轻松完成所有操作</p>
-> <p align="center">享受便捷、安全且有保障的网上购买彩票体验</p> 
+> <p align="center">现在，只需通过微信，即可完成所有操作</p>
+> <p align="center">帮助您解决网上怎么买彩票的难题</p> 
 <br>
 <br>
 
