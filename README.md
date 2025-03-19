@@ -1,3 +1,8 @@
+---
+layout: default
+keywords: 网上购买彩票
+---
+
 <head>
   <meta name="keywords" content="网上购买彩票">
 </head>
