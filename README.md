@@ -1,9 +1,4 @@
 
-
-<head>
-  <meta name="keywords" content="网上购买彩票">
-</head>
-
 > <p align="center">想在家就能轻松购买彩票</p>
 > <p align="center">无需亲自前往实体店？</p>
 > <p align="center">现在，只需通过微信，即可完成所有操作</p>
