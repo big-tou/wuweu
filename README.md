@@ -8,23 +8,18 @@
 
 <link rel="stylesheet" href="style.css">
 
-<h2 style="text-align: center;">为什么选择我们？</h2>
-<p align="center">作为一家获得国家福彩中心和体彩中心官方认证的正规实体店</p> 
-<p align="center">我们秉持诚信与安全的服务理念</p> 
-<p align="center">确保每一位客户都能享受到优质的购彩体验</p> 
-<p align="center">我们为您提供全天候服务</p> 
-<p align="center">无论何时何地</p> 
-<p align="center">您都能轻松在网上购买彩票，享受便捷与安心</p> 
+
 <br>
-<p align="center"><img src="fetch_url.jpg"  width="300"></p> 
+
 
 <p align="center">无论是双色球、大乐透、3D、快乐8</p> 
 <p align="center">还是竞彩足球、排列3、排列5、刮刮乐等热门彩种</p> 
 <p align="center">我们都为您提供全方位的购彩服务</p> 
 <p align="center">让您无需担忧，轻松解决通过微信买彩票的每一个环节</p> 
 
+<p align="center"><img src="fetch_url.jpg"  width="300"></p> 
 
-<i class="fas fa-arrow-right"></i>
+
 
 <br>
 
