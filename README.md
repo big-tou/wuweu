@@ -4,12 +4,9 @@
 > <p align="center">现在，只需通过微信，即可完成所有操作</p>
 > <p align="center">帮助您解决网上怎么买彩票的难题</p> 
 <br>
-<br>
 
 <link rel="stylesheet" href="style.css">
 
-
-<br>
 
 
 <p align="center">无论是双色球、大乐透、3D、快乐8</p> 
